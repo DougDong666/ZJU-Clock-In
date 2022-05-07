@@ -1,8 +1,6 @@
-# 自动打卡教程
+# 爬虫
 
-**信息同步与问题反馈群:**
 
-<img src="https://gitee.com/dizhipeng/image/raw/master/img/image-20210806110359202.png" alt="image-20210806110359202" style="zoom:50%;" />
 
 
 
